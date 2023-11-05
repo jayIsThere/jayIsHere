@@ -17,7 +17,7 @@ body {
 /* add a smooth scroll */
 
 html {
-  scroll-behavior: smooth; 
+  scroll-behavior: smooth;
 }
 
 div#main {
