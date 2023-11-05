@@ -133,3 +133,25 @@ img.socialIcon {
 * {
   scroll-behavior: smooth;
 }
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 5rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  p.large {
+    font-size: 20px;
+  }
+
+  p.small {
+    font-size: 14px;
+  }
+}
